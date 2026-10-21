@@ -17,3 +17,7 @@ Automated validation verifies data consistency, not theological or linguistic au
 ## Editorial revision
 
 The validation additionally checks 256 distinct thematic short-question stems, alignment of each practical MCQ with its lesson scenario, synchronization of the syntax summary with every annotated word, and absence of the removed boilerplate. All 64 explanations and the thematic question sets were editorially rewritten. Source Arabic and lesson selection were retained.
+
+## Presentation update
+
+The redesigned desktop homepage and the mobile iframe were inspected in Chromium. At a 390px iframe width (375px content area with scrollbar), both homepage and lesson pages had no horizontal overflow. The mobile menu, nine fragment-linked study tabs, Q&A page, light/dark theme and vocabulary-card navigation to grammar were exercised. Static content cards remain presentational; all navigation cards have actual destinations.
