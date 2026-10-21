@@ -13,3 +13,7 @@ The site was served locally and inspected in Chromium. Desktop home, selected le
 ## Limits
 
 Automated validation verifies data consistency, not theological or linguistic authority. The selection is not exhaustive coverage of the book. Progress and bookmarks are browser-local; clearing site data removes them unless exported. No remote accounts or backend are included.
+
+## Editorial revision
+
+The validation additionally checks 256 distinct thematic short-question stems, alignment of each practical MCQ with its lesson scenario, synchronization of the syntax summary with every annotated word, and absence of the removed boilerplate. All 64 explanations and the thematic question sets were editorially rewritten. Source Arabic and lesson selection were retained.
